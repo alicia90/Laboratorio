@@ -1,0 +1,46 @@
+.titulo {
+    color: blue;
+    text-shadow: 3px 3px yellow;
+}
+
+fieldset {
+    background-color: aqua;
+    border-width: 1px;
+    border-color: #e4e4e4;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+legend {
+    background-color: red;
+    color: white;
+    text-transform: capitalize;
+}
+
+input[type="text"],
+input[type="number"] {
+    background-color: yellow;
+    border-width: 1px;
+    border-color: #e4e4e4;
+    border-radius: 5px;
+}
+
+.clear {
+    clear: both;
+}
+
+.estiloBoton {
+    background-color: rgb(248, 173, 165);
+    width: 95px;
+    border-width: 1px;
+    border-color: #e4e4e4;
+    border-radius: 5px;
+    margin-top: 2px;
+    white-space: normal;
+}
+
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    text-transform: capitalize;
+}
